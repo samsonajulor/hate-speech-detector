@@ -23,7 +23,7 @@ from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
 
 # - dataset for training the model
-train_csv = "http://s3.amazonaws.com/assets.datacamp.com/course/Kaggle/train.csv"
+train_csv = "https://drive.google.com/file/d/12oTHRi_-bF7VZ3YO2F0GGmOS-i1Sf3x-/view?usp=drive_link"
 
 # - dataset features to include in the model (use `None` to include everything)
 include = None
